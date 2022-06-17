@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.list-container {
+  background-color: #ffffff;
+  width: 250px;
+  list-style-type: none;
+  margin: 10px;
+}
+.img-Url {
+  width: 250px;
+  border-radius: 8px;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #0f172a;
+}
